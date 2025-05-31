@@ -1,0 +1,25 @@
+
+npm install animejs
+
+npm install three
+
+npm install gsap
+
+npm install swiper
+
+npm install chart.js
+
+Website:
+☑️ Checklista för ny dator / ominstallation (guide) 
+
+💻 Måste-ha appar (allt man måste ha) 
+
+🛠 Systeminställningar (det man alltid bör fixa) 
+
+🔒 Säkerhet (ett måste) 
+
+🎨 UI / Workflow tweaks (fixa datorn att se snyggare ut)
+
+🔗 Bästa AI verktygen
+
+🔧 Shortcuts alla borde veta
